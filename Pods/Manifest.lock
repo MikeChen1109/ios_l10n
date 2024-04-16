@@ -1,0 +1,21 @@
+PODS:
+  - Localize-Swift (3.2.0):
+    - Localize-Swift/LocalizeSwiftCore (= 3.2.0)
+    - Localize-Swift/UIKit (= 3.2.0)
+  - Localize-Swift/LocalizeSwiftCore (3.2.0)
+  - Localize-Swift/UIKit (3.2.0):
+    - Localize-Swift/LocalizeSwiftCore
+
+DEPENDENCIES:
+  - Localize-Swift (~> 3.2)
+
+SPEC REPOS:
+  trunk:
+    - Localize-Swift
+
+SPEC CHECKSUMS:
+  Localize-Swift: 6f4475136bdb0d7b2882ea3d4ea919d70142b232
+
+PODFILE CHECKSUM: ae9c1c97c620983269ff26de65228598bd66cfb5
+
+COCOAPODS: 1.12.0

@@ -1,0 +1,6 @@
+framework module Pods_LanguegeSelector {
+  umbrella header "Pods-LanguegeSelector-umbrella.h"
+
+  export *
+  module * { export * }
+}
